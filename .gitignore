@@ -1,0 +1,67 @@
+# ── Data (large raw files not tracked) ──────────────────────────────────────
+data/metadata.csv
+data/train.csv
+data/metadata_parsed.pkl
+
+# Processed splits can be tracked (small); remove these lines to exclude them:
+# data/ui_train.csv
+# data/ui_val.csv
+# data/ui_test.csv
+
+# ── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+
+# ── Jupyter ───────────────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+profile_default/
+ipython_config.py
+
+# ── Virtual environments ──────────────────────────────────────────────────────
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ── Conda ─────────────────────────────────────────────────────────────────────
+.conda/
+
+# ── OS / editor artefacts ────────────────────────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ── Misc ─────────────────────────────────────────────────────────────────────
+*.log
+*.tmp
+.cache/
