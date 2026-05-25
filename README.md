@@ -1,8 +1,4 @@
 # Ingredient Recommendation System — food.com
-
-> **IESEG Group Project — Recommendation Systems, 2nd Semester**  
-> Authors: Duc Manh NGUYEN · Minh Hoan TRAN · Praveen PANDARINATHAM
-
 ---
 
 ## Project Overview
