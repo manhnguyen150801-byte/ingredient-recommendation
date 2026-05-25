@@ -67,7 +67,6 @@ ingredient-recommendation/
 │
 └── slides/
     ├── Slide.pdf               ← Project presentation (16 slides)
-    └── README.md               ← Slide deck guide
 ```
 
 ---
