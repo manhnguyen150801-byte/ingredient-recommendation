@@ -1,8 +1,5 @@
 # Ingredient Recommendation System — food.com
 
-> **IESEG Group Project — Recommendation Systems, 2nd Semester 2026**  
-> Authors: Duc Manh NGUYEN · Minh Hoan TRAN · Praveen PANDARINATHAM
-
 ---
 
 ## Project Overview
@@ -269,12 +266,7 @@ ingredient-recommendation/
 │   └── README.md
 │
 └── slides/
-<<<<<<< HEAD
     ├── Slide.pdf               ← Project presentation (16 slides)
-=======
-    ├── Slide.pdf               ← 16-slide project presentation
-    └── README.md
->>>>>>> 6110aca (Update README with detailed analysis and charts)
 ```
 
 ---
