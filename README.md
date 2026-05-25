@@ -1,4 +1,4 @@
-# Ingredient Recommendation System — food.com
+# Ingredient Recommendation System - food.com
 ---
 
 ## Project Overview
